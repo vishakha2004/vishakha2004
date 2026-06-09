@@ -65,3 +65,43 @@ Microsoft Azure. </p>
 ###
 
 ###
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+###
+
+<div align="left">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakha2004&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+###
+
+<h3 align="left">📬 Contact</h3>
+
+###
+
+<table>
+  <tr>
+    <td>
+      <a href="mailto:vishakhasimaiya@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-vishakhasimaiya@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vishakha2004">
+        <img src="https://img.shields.io/badge/GitHub-vishakha2004-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/vishakha0229">
+        <img src="https://img.shields.io/badge/Instagram-vishakha0229-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+###
+
+
+
